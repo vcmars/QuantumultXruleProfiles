@@ -3,6 +3,18 @@
 #HOST-SUFFIX, tagtic.cn, REJECT
 
 #shadowrocket copy to here
+# Shadowrocket: 2026-04-23 11:10:08
+DOMAIN-SUFFIX,xiaohongshu.com,REJECT
+DOMAIN-SUFFIX,ca.iadsdk.apple.com,REJECT
+DOMAIN-SUFFIX,upos-sz-mirrorcos.bilivideo.com,REJECT
+DOMAIN-SUFFIX,monitor.ssp.admobile.top,REJECT
+DOMAIN-SUFFIX,gdfp.gifshow.com,REJECT
+DOMAIN-SUFFIX,p1-lm.adkwai.com,REJECT
+DOMAIN-SUFFIX,tx-ad.a.yximgs.com,REJECT
+DOMAIN-SUFFIX,p1.a.yximgs.com,REJECT
+IP-CIDR,101.91.96.22/32,REJECT
+
+
 HOST-SUFFIX,pysmei.com,DIRECT
 HOST-SUFFIX,sofire.baidu.com,REJECT
 HOST-SUFFIX,umeng.com,REJECT
